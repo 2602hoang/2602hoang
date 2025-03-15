@@ -96,7 +96,7 @@ I'm a **Software Engineer** with a passion for building web and mobile applicati
 - **Description**: A realtime chat application built with **NextJS** and **Socket.IO**.
 - **Features**: Realtime messaging, user authentication, and online status tracking.
 - **Tech Stack**: NextJS, Socket.IO, TailwindCSS, MongoDB.
-- **Demo**: [Live Demo](#) (Add your demo link here)
+- **Demo**: [Live Demo]((https://nextjs-app-pro-v1.vercel.app/login))
 - **Source Code**: Contact me !.
 
 ### 4. **Personal Blog**
