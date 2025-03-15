@@ -96,14 +96,14 @@ I'm a **Software Engineer** with a passion for building web and mobile applicati
 - **Description**: A realtime chat application built with **NextJS** and **Socket.IO**.
 - **Features**: Realtime messaging, user authentication, and online status tracking.
 - **Tech Stack**: NextJS, Socket.IO, TailwindCSS, MongoDB.
-- **Demo**: [Live Demo]((https://nextjs-app-pro-v1.vercel.app/login))
+- **Demo**: [Live Demo](https://nextjs-app-pro-v1.vercel.app/login)
 - **Source Code**: Contact me !.
 
 ### 4. **Personal Blog**
 - **Description**: A personal blog to introduce myself and share my thoughts.
 - **Features**: User-friendly interface, comment system, and email integration.
 - **Tech Stack**: ReactJS, TailwindCSS, Google Apps Script, emailJS.
-- **Demo**: [Live Demo]((https://blogger-vhh.vercel.app/))
+- **Demo**: [Live Demo](https://blogger-vhh.vercel.app/)
 - **Source Code**: Contact me !.
 
 ### 5. **Game: Quick Hands & Sharp Eyes**
