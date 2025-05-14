@@ -109,7 +109,7 @@ I'm a **Software Engineer** with a passion for building web and mobile applicati
 ### 5. **Game: Quick Hands & Sharp Eyes**
 - **Description**: A fun game to test your reflexes and observation skills.
 - **Tech Stack**: ReactJS, TailwindCSS.
-- **Demo**: [Play Now](https://entrancetest-halbazo.vercel.app/)
+- **Demo**: [Play Now](https://entrancetest-haibazo.vercel.app/)
 - **Source Code**: Contact me !.
 
 ---
