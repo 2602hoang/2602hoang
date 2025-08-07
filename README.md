@@ -74,30 +74,12 @@ I'm a **Software Engineer** with a passion for building web and mobile applicati
 ### ✳️ **The most recent project is implementing**
 
 - **Description**: A "Coming Soon" microservice front-end structure.  
-  This project demonstrates a modular service-based architecture with a shared authentication flow between services.
+  This project showcases a modular, service-based architecture with a shared authentication flow across multiple services.
+
+  Contact me to view the demo.
 
 ---
 
-### 🔗 Services
-
-- **🔐 service-main**:  
-  Central authentication and user session service.  
-  **Link**: [https://zone-login-test.vercel.app/](https://zone-login-test.vercel.app/)
-
-- **📝 service-1**:  
-  Task management interface, protected and only accessible after login via `service-main`.  
-  **Link**: [https://my-task-blush.vercel.app/tasks](https://my-task-blush.vercel.app/tasks)
-
----
-
-### 🚀 Demo: [Live Demo](https://zone-login-test.vercel.app/)
-
-> #### 🧪 How to test:
-> 1. Visit the [Live Demo](https://zone-login-test.vercel.app/)
-> 2. Click **Login** on the main screen (`service-main`)
-> 3. After login, click the **"Go to Service-1"** button
-> 4. You will be redirected to [service-1](https://my-task-blush.vercel.app/tasks)  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 This opens in a **new tab** (`_blank`)
 
 ---
 
