@@ -74,8 +74,8 @@ I'm a **Software Engineer** with a passion for building web and mobile applicati
 ### *. **The most recent project is implementing**
 - **Description**: Comming Soon microservice front-end.
 - **Demo**:zone-main [Live Demo](())
-**service-main** link: https://zone-login-test.vercel.app/
-**service-1** link: https://my-task-blush.vercel.app/tasks
+- **service-main** link: https://zone-login-test.vercel.app/
+- **service-1** link: https://my-task-blush.vercel.app/tasks
 
 - **Demo**: service-main [Live Demo](https://zone-login-test.vercel.app/)
             - click login service-main ->> service-1 
