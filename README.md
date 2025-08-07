@@ -71,14 +71,35 @@ I'm a **Software Engineer** with a passion for building web and mobile applicati
 
 ## 🚀 Projects
 
-### *. **The most recent project is implementing**
-- **Description**: Comming Soon microservice front-end.
-- **Demo**:zone-main [Live Demo](())
-- **service-main** link: https://zone-login-test.vercel.app/
-- **service-1** link: https://my-task-blush.vercel.app/tasks
+### ✳️ **The most recent project is implementing**
 
-- **Demo**: [Live Demo](https://zone-login-test.vercel.app/)
-            - click login service-main ->> service-1 
+- **Description**: A "Coming Soon" microservice front-end structure.  
+  This project demonstrates a modular service-based architecture with a shared authentication flow between services.
+
+---
+
+### 🔗 Services
+
+- **🔐 service-main**:  
+  Central authentication and user session service.  
+  **Link**: [https://zone-login-test.vercel.app/](https://zone-login-test.vercel.app/)
+
+- **📝 service-1**:  
+  Task management interface, protected and only accessible after login via `service-main`.  
+  **Link**: [https://my-task-blush.vercel.app/tasks](https://my-task-blush.vercel.app/tasks)
+
+---
+
+### 🚀 Demo: [Live Demo](https://zone-login-test.vercel.app/)
+
+> #### 🧪 How to test:
+> 1. Visit the [Live Demo](https://zone-login-test.vercel.app/)
+> 2. Click **Login** on the main screen (`service-main`)
+> 3. After login, click the **"Go to Service-1"** button
+> 4. You will be redirected to [service-1](https://my-task-blush.vercel.app/tasks)  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 This opens in a **new tab** (`_blank`)
+
+---
 
 ### 0. **Portfolio**
 - **Description**: Because I came up with the design idea and implemented it.
