@@ -1,4 +1,5 @@
 # 👋 Hello, I'm Vu Huy Hoang!
+![Screenshot](https://res.cloudinary.com/dzldyflpv/image/upload/v1751814686/ueg0qwkb56wjbjesa4ca.png)
 
 I'm a **Software Engineer** with a passion for building web and mobile applications. I specialize in **Front-end Development** using modern technologies like **ReactJS**, **NextJS**, and **React Native**, but I also have experience with **Back-end Development** using **NodeJS**, **Express**, and **NextJS API Routes**. I'm always eager to learn new technologies and improve my skills to create high-quality, scalable, and user-friendly applications.
 
