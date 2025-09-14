@@ -83,7 +83,11 @@ I'm a **Software Engineer** with a passion for building web and mobile applicati
   Contact me to view the demo.
 
 ---
+### ✳️ Freelancer Projects
 
+**Description**: Developed a responsive SPA (Single Page Application) landing page for a small e-commerce store using Next.js and Tailwind CSS.  
+**Role**: Front-end developer  
+**Link**: [Live Demo](https://zidi-spa-v1.vercel.app/) 
 
 ---
 
