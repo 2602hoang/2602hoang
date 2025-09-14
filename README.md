@@ -90,6 +90,7 @@ I'm a **Software Engineer** with a passion for building web and mobile applicati
 **Link**: [Live Demo](https://zidi-spa-v1.vercel.app/) 
 
 ---
+### ✳️ Personal Projects
 
 ### 0. **Portfolio**
 - **Description**: Because I came up with the design idea and implemented it.
