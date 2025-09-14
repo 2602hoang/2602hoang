@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Vu Huy Hoang!
-![Screenshot](https://res.cloudinary.com/dzldyflpv/image/upload/v1756265757/rfdrhbb11e8lqxlaakmw.png)
+![Screenshot](https://res.cloudinary.com/dzldyflpv/image/upload/v1757825974/oe2jnramr7gd95mchau5.png)
 
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/2602hoang&query=public_repos&label=Public%20Repos)
 
