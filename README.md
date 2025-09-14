@@ -80,7 +80,7 @@ I'm a **Software Engineer** with a passion for building web and mobile applicati
 - **Description**: A "Coming Soon" microservice front-end structure.  
   This project showcases a modular, service-based architecture with a shared authentication flow across multiple services.
 
-**Link**:  [Detail](https://byvn.net/bxKE) | [Video Demo](https://studio.youtube.com/video/NKZgVMzdy_E) 
+**Link**:  [Detail]([https://byvn.net/bxKE](https://www.notion.so/MICROFRONTEND-264958ed5aee80cea881de8a6546c378)) | [Video Demo]([https://studio.youtube.com/video/NKZgVMzdy_E](https://www.youtube.com/watch?v=NKZgVMzdy_E)) 
 
 ---
 ### ✳️ Freelancer Projects
