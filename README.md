@@ -82,8 +82,6 @@ I'm a **Software Engineer** with a passion for building web and mobile applicati
 
 **Link**:  [Detail](https://www.notion.so/MICROFRONTEND-264958ed5aee80cea881de8a6546c378)  |  [Video Demo](https://www.youtube.com/watch?v=NKZgVMzdy_E)
 
-**Link**: <a style={{color:"#121212"}} href="https://www.notion.so/MICROFRONTEND-264958ed5aee80cea881de8a6546c378" target="_blank">Detail</a> | <a href="https://www.youtube.com/watch?v=NKZgVMzdy_E" target="_blank">Video Demo</a>
-
 ---
 ### ✳️ Freelancer Projects
 
